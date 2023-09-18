@@ -28,7 +28,7 @@ We believe that this project will be a valuable tool for the telecom company. It
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| Capstone | Telco Customer Churn Prediction |  [Medium Article](https://) | [Streamlit App](https:///) |
+| Capstone | Telco Customer Churn Prediction |  [Medium Article](https://) | [Gradio App](https://huggingface.co/spaces/slickdata/DAP_Capstone) |
 
 
 
