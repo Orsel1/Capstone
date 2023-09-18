@@ -28,7 +28,7 @@ We believe that this project will be a valuable tool for the telecom company. It
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| Capstone | Telco Customer Churn Prediction |  [Medium Article](https://) | [Streamlit App](https:///) |
+| Capstone | Telco Customer Churn Prediction |  [Medium Article](https://) | [Gradio App](https://huggingface.co/spaces/slickdata/DAP_Capstone) |
 
 
 
@@ -110,9 +110,9 @@ The data used in this project consists of a diverse collection of sepsis cases o
 
 ## Contact
 
-`Henry Nii Ayitey-Adjin`
+`Tyokase Orseer`
 
 `Data Analyst`
 `Azubi Africa`
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-nii-ayitey-adjin-slick-data/)
+- [LinkedIn](https://www.linkedin.com/in/tyokase-orseer-818384162?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bx4RPGIdtRxur1Vs9f4aMxA%3D%3D)
